@@ -1,11 +1,7 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {
-	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-     background-color: #FFFFFF;
-     margin: 0;
-     padding: 0;
-     color: #000;
+	margin: 0 auto;
 }
 .homePage {
 	background: #ABD6E0;
@@ -16,7 +12,7 @@ body {
 }
 .header {
 	background: #217EDB;
-	text-align: center; 
+	text-align: center;
 	margin: 0px;
 	padding: 5;
 	float: left;
